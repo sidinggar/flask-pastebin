@@ -1,4 +1,4 @@
-gevent
-flask
-jinja2
-flask-babel
+gevent==1.2.2
+Flask==1.1.1
+Jinja2==2.10.3
+flask-babel==1.0.0
